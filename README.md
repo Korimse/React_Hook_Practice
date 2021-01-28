@@ -4,17 +4,15 @@ React Hooks
 
 [X] useTabs
 
-[ ] useTitle
+[X] useTitle
 
-[ ] useClick
+[X] useHover
 
-[ ] useHover
+[X] useConfirm
 
-[ ] useConfirm
+[X] usePreventLeave
 
-[ ] usePreventLeave
-
-[ ] useBeforeLeave
+[X] useBeforeLeave
 
 [ ] useFadeIn
 
